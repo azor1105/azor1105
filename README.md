@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Sql, Rest Api, Hive**
 
-- 📝 I regularly write articles on [https://t.me/pclifehacks](https://t.me/pclifehacks)
+- 📝 I regularly write articles on [https://t.me/azor_pub](https://t.me/azor_pub)
 
 - 💬 Ask me about **Widgets, packages, CRUD**
 
